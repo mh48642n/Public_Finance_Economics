@@ -1,4 +1,4 @@
-## Public_Finance_Economics
+## Public Finance & Economics
 
 Economics something something 
 
