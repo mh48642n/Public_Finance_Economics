@@ -6,7 +6,8 @@ library(zoo)
 library(lubridate)
 library(xts)
 
-setwd("C:/Users/marvi/OneDrive/Documents/GitHub/Data/macro_datasets")
+path = ''
+setwd(path)
 
 piece_1 <- read.csv("personal_income.csv")
 piece_2 <- read_xls("acm_term_premium.xls", sheet = "Daily")
